@@ -22,6 +22,7 @@ pyarrow
 cityscapesscripts
 shapely
 scikit-image
+uvicorn==0.2.3
 mup
 gradio==3.31.0
 scann
